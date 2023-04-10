@@ -1,0 +1,15 @@
+/Users/daschevicivladislav/Projects/TMPS_AFactory_Pattern/TMPS_AFactory_Pattern/bin/Debug/net7.0/TMPS_AFactory_Pattern
+/Users/daschevicivladislav/Projects/TMPS_AFactory_Pattern/TMPS_AFactory_Pattern/bin/Debug/net7.0/TMPS_AFactory_Pattern.deps.json
+/Users/daschevicivladislav/Projects/TMPS_AFactory_Pattern/TMPS_AFactory_Pattern/bin/Debug/net7.0/TMPS_AFactory_Pattern.runtimeconfig.json
+/Users/daschevicivladislav/Projects/TMPS_AFactory_Pattern/TMPS_AFactory_Pattern/bin/Debug/net7.0/TMPS_AFactory_Pattern.dll
+/Users/daschevicivladislav/Projects/TMPS_AFactory_Pattern/TMPS_AFactory_Pattern/bin/Debug/net7.0/TMPS_AFactory_Pattern.pdb
+/Users/daschevicivladislav/Projects/TMPS_AFactory_Pattern/TMPS_AFactory_Pattern/obj/Debug/net7.0/TMPS_AFactory_Pattern.csproj.AssemblyReference.cache
+/Users/daschevicivladislav/Projects/TMPS_AFactory_Pattern/TMPS_AFactory_Pattern/obj/Debug/net7.0/TMPS_AFactory_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daschevicivladislav/Projects/TMPS_AFactory_Pattern/TMPS_AFactory_Pattern/obj/Debug/net7.0/TMPS_AFactory_Pattern.AssemblyInfoInputs.cache
+/Users/daschevicivladislav/Projects/TMPS_AFactory_Pattern/TMPS_AFactory_Pattern/obj/Debug/net7.0/TMPS_AFactory_Pattern.AssemblyInfo.cs
+/Users/daschevicivladislav/Projects/TMPS_AFactory_Pattern/TMPS_AFactory_Pattern/obj/Debug/net7.0/TMPS_AFactory_Pattern.csproj.CoreCompileInputs.cache
+/Users/daschevicivladislav/Projects/TMPS_AFactory_Pattern/TMPS_AFactory_Pattern/obj/Debug/net7.0/TMPS_AFactory_Pattern.dll
+/Users/daschevicivladislav/Projects/TMPS_AFactory_Pattern/TMPS_AFactory_Pattern/obj/Debug/net7.0/refint/TMPS_AFactory_Pattern.dll
+/Users/daschevicivladislav/Projects/TMPS_AFactory_Pattern/TMPS_AFactory_Pattern/obj/Debug/net7.0/TMPS_AFactory_Pattern.pdb
+/Users/daschevicivladislav/Projects/TMPS_AFactory_Pattern/TMPS_AFactory_Pattern/obj/Debug/net7.0/TMPS_AFactory_Pattern.genruntimeconfig.cache
+/Users/daschevicivladislav/Projects/TMPS_AFactory_Pattern/TMPS_AFactory_Pattern/obj/Debug/net7.0/ref/TMPS_AFactory_Pattern.dll

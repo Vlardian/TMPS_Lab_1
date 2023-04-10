@@ -1,0 +1,5 @@
+/Users/daschevicivladislav/Projects/TMPS_lab_1_Singleton&Builder/TMPS_lab_1_Singleton&Builder/obj/Debug/net7.0/TMPS_lab_1_Singleton&Builder.csproj.AssemblyReference.cache
+/Users/daschevicivladislav/Projects/TMPS_lab_1_Singleton&Builder/TMPS_lab_1_Singleton&Builder/obj/Debug/net7.0/TMPS_lab_1_Singleton&Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daschevicivladislav/Projects/TMPS_lab_1_Singleton&Builder/TMPS_lab_1_Singleton&Builder/obj/Debug/net7.0/TMPS_lab_1_Singleton&Builder.AssemblyInfoInputs.cache
+/Users/daschevicivladislav/Projects/TMPS_lab_1_Singleton&Builder/TMPS_lab_1_Singleton&Builder/obj/Debug/net7.0/TMPS_lab_1_Singleton&Builder.AssemblyInfo.cs
+/Users/daschevicivladislav/Projects/TMPS_lab_1_Singleton&Builder/TMPS_lab_1_Singleton&Builder/obj/Debug/net7.0/TMPS_lab_1_Singleton&Builder.csproj.CoreCompileInputs.cache

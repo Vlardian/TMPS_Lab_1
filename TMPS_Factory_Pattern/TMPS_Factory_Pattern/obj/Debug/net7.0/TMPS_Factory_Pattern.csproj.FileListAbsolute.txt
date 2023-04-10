@@ -1,0 +1,15 @@
+/Users/daschevicivladislav/Projects/TMPS_Factory_Pattern/TMPS_Factory_Pattern/bin/Debug/net7.0/TMPS_Factory_Pattern
+/Users/daschevicivladislav/Projects/TMPS_Factory_Pattern/TMPS_Factory_Pattern/bin/Debug/net7.0/TMPS_Factory_Pattern.deps.json
+/Users/daschevicivladislav/Projects/TMPS_Factory_Pattern/TMPS_Factory_Pattern/bin/Debug/net7.0/TMPS_Factory_Pattern.runtimeconfig.json
+/Users/daschevicivladislav/Projects/TMPS_Factory_Pattern/TMPS_Factory_Pattern/bin/Debug/net7.0/TMPS_Factory_Pattern.dll
+/Users/daschevicivladislav/Projects/TMPS_Factory_Pattern/TMPS_Factory_Pattern/bin/Debug/net7.0/TMPS_Factory_Pattern.pdb
+/Users/daschevicivladislav/Projects/TMPS_Factory_Pattern/TMPS_Factory_Pattern/obj/Debug/net7.0/TMPS_Factory_Pattern.csproj.AssemblyReference.cache
+/Users/daschevicivladislav/Projects/TMPS_Factory_Pattern/TMPS_Factory_Pattern/obj/Debug/net7.0/TMPS_Factory_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daschevicivladislav/Projects/TMPS_Factory_Pattern/TMPS_Factory_Pattern/obj/Debug/net7.0/TMPS_Factory_Pattern.AssemblyInfoInputs.cache
+/Users/daschevicivladislav/Projects/TMPS_Factory_Pattern/TMPS_Factory_Pattern/obj/Debug/net7.0/TMPS_Factory_Pattern.AssemblyInfo.cs
+/Users/daschevicivladislav/Projects/TMPS_Factory_Pattern/TMPS_Factory_Pattern/obj/Debug/net7.0/TMPS_Factory_Pattern.csproj.CoreCompileInputs.cache
+/Users/daschevicivladislav/Projects/TMPS_Factory_Pattern/TMPS_Factory_Pattern/obj/Debug/net7.0/TMPS_Factory_Pattern.dll
+/Users/daschevicivladislav/Projects/TMPS_Factory_Pattern/TMPS_Factory_Pattern/obj/Debug/net7.0/refint/TMPS_Factory_Pattern.dll
+/Users/daschevicivladislav/Projects/TMPS_Factory_Pattern/TMPS_Factory_Pattern/obj/Debug/net7.0/TMPS_Factory_Pattern.pdb
+/Users/daschevicivladislav/Projects/TMPS_Factory_Pattern/TMPS_Factory_Pattern/obj/Debug/net7.0/TMPS_Factory_Pattern.genruntimeconfig.cache
+/Users/daschevicivladislav/Projects/TMPS_Factory_Pattern/TMPS_Factory_Pattern/obj/Debug/net7.0/ref/TMPS_Factory_Pattern.dll

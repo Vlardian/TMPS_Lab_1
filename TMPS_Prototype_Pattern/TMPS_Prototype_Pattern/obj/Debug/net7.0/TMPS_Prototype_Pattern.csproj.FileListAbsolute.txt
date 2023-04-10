@@ -1,0 +1,15 @@
+/Users/daschevicivladislav/Projects/TMPS_Prototype_Pattern/TMPS_Prototype_Pattern/bin/Debug/net7.0/TMPS_Prototype_Pattern
+/Users/daschevicivladislav/Projects/TMPS_Prototype_Pattern/TMPS_Prototype_Pattern/bin/Debug/net7.0/TMPS_Prototype_Pattern.deps.json
+/Users/daschevicivladislav/Projects/TMPS_Prototype_Pattern/TMPS_Prototype_Pattern/bin/Debug/net7.0/TMPS_Prototype_Pattern.runtimeconfig.json
+/Users/daschevicivladislav/Projects/TMPS_Prototype_Pattern/TMPS_Prototype_Pattern/bin/Debug/net7.0/TMPS_Prototype_Pattern.dll
+/Users/daschevicivladislav/Projects/TMPS_Prototype_Pattern/TMPS_Prototype_Pattern/bin/Debug/net7.0/TMPS_Prototype_Pattern.pdb
+/Users/daschevicivladislav/Projects/TMPS_Prototype_Pattern/TMPS_Prototype_Pattern/obj/Debug/net7.0/TMPS_Prototype_Pattern.csproj.AssemblyReference.cache
+/Users/daschevicivladislav/Projects/TMPS_Prototype_Pattern/TMPS_Prototype_Pattern/obj/Debug/net7.0/TMPS_Prototype_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daschevicivladislav/Projects/TMPS_Prototype_Pattern/TMPS_Prototype_Pattern/obj/Debug/net7.0/TMPS_Prototype_Pattern.AssemblyInfoInputs.cache
+/Users/daschevicivladislav/Projects/TMPS_Prototype_Pattern/TMPS_Prototype_Pattern/obj/Debug/net7.0/TMPS_Prototype_Pattern.AssemblyInfo.cs
+/Users/daschevicivladislav/Projects/TMPS_Prototype_Pattern/TMPS_Prototype_Pattern/obj/Debug/net7.0/TMPS_Prototype_Pattern.csproj.CoreCompileInputs.cache
+/Users/daschevicivladislav/Projects/TMPS_Prototype_Pattern/TMPS_Prototype_Pattern/obj/Debug/net7.0/TMPS_Prototype_Pattern.dll
+/Users/daschevicivladislav/Projects/TMPS_Prototype_Pattern/TMPS_Prototype_Pattern/obj/Debug/net7.0/refint/TMPS_Prototype_Pattern.dll
+/Users/daschevicivladislav/Projects/TMPS_Prototype_Pattern/TMPS_Prototype_Pattern/obj/Debug/net7.0/TMPS_Prototype_Pattern.pdb
+/Users/daschevicivladislav/Projects/TMPS_Prototype_Pattern/TMPS_Prototype_Pattern/obj/Debug/net7.0/TMPS_Prototype_Pattern.genruntimeconfig.cache
+/Users/daschevicivladislav/Projects/TMPS_Prototype_Pattern/TMPS_Prototype_Pattern/obj/Debug/net7.0/ref/TMPS_Prototype_Pattern.dll

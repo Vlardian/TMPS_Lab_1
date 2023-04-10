@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMPS_lab_1_Singleton&Builder", "TMPS_lab_1_Singleton&Builder\TMPS_lab_1_Singleton&Builder.csproj", "{0474FBE2-1B04-4926-ABE7-38E4E9D69A6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0474FBE2-1B04-4926-ABE7-38E4E9D69A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0474FBE2-1B04-4926-ABE7-38E4E9D69A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0474FBE2-1B04-4926-ABE7-38E4E9D69A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0474FBE2-1B04-4926-ABE7-38E4E9D69A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {544659C9-1338-4F6B-8900-A863C2720932}
+	EndGlobalSection
+EndGlobal

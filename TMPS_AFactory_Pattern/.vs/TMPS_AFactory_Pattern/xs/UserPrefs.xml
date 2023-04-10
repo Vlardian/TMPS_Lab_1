@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{68E6B1AB-1E38-48F4-8DBA-E89244DB96B4}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TMPS__AFactory__Pattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TMPS_AFactory_Pattern/Program.cs">
+    <Files>
+      <File FileName="TMPS_AFactory_Pattern/Program.cs" Line="11" Column="48" />
+      <File FileName="TMPS_AFactory_Pattern/UsedMaterials/Textil.cs" />
+      <File FileName="TMPS_AFactory_Pattern/UsedMaterials/Leather.cs" Line="1" Column="1" />
+      <File FileName="TMPS_AFactory_Pattern/UsedMaterials/ChooseMaterial.cs" Line="1" Column="1" />
+      <File FileName="TMPS_AFactory_Pattern/Products/Wallet.cs" Line="1" Column="1" />
+      <File FileName="TMPS_AFactory_Pattern/Products/Belt.cs" Line="1" Column="1" />
+      <File FileName="TMPS_AFactory_Pattern/Products/ChooseProdcut.cs" Line="1" Column="1" />
+      <File FileName="TMPS_AFactory_Pattern/Fabric/IProductType.cs" Line="1" Column="1" />
+      <File FileName="TMPS_AFactory_Pattern/Fabric/ProductTypeX.cs" Line="1" Column="1" />
+      <File FileName="TMPS_AFactory_Pattern/Fabric/ProductTypeY.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TMPS_AFactory_Pattern" expanded="True">
+            <Node name="TMPS_AFactory_Pattern" expanded="True">
+              <Node name="Fabric" expanded="True" />
+              <Node name="Products" expanded="True" />
+              <Node name="UsedMaterials" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{EA3DA925-EAB5-48AF-99B5-B86746DC344A}|Default">
+  <MonoDevelop.Ide.ItemProperties.TMPS__Factory__Pattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TMPS_Factory_Pattern/Laptop.cs">
+    <Files>
+      <File FileName="TMPS_Factory_Pattern/Program.cs" />
+      <File FileName="TMPS_Factory_Pattern/Computer.cs" />
+      <File FileName="TMPS_Factory_Pattern/ComputerFactory.cs" />
+      <File FileName="TMPS_Factory_Pattern/Laptop.cs" Line="6" Column="64" />
+      <File FileName="TMPS_Factory_Pattern/LaptopFactory.cs" />
+      <File FileName="TMPS_Factory_Pattern/PC.cs" />
+      <File FileName="TMPS_Factory_Pattern/PCFactory.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TMPS_Factory_Pattern" expanded="True">
+            <Node name="TMPS_Factory_Pattern" expanded="True">
+              <Node name="Laptop.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

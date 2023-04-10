@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{0474FBE2-1B04-4926-ABE7-38E4E9D69A6A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TMPS_lab_1_Singleton&amp;Builder/Builder.cs">
+    <Files>
+      <File FileName="TMPS_lab_1_Singleton&amp;Builder/Program.cs" />
+      <File FileName="TMPS_lab_1_Singleton&amp;Builder/Builder.cs" Line="1" Column="1" />
+      <File FileName="TMPS_lab_1_Singleton&amp;Builder/Singleton.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TMPS_lab_1_Singleton&amp;Builder" expanded="True">
+            <Node name="TMPS_lab_1_Singleton&amp;Builder" expanded="True">
+              <Node name="Builder.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TMPS__lab__1__Singleton_226Builder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

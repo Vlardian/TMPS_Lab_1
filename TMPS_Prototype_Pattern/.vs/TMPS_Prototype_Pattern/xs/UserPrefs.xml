@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C11FA9A1-41F4-4039-A6E6-FF9898A42244}|Default">
+  <MonoDevelop.Ide.ItemProperties.TMPS__Prototype__Pattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TMPS_Prototype_Pattern/Troleibuz.cs">
+    <Files>
+      <File FileName="TMPS_Prototype_Pattern/Program.cs" Line="16" Column="2" />
+      <File FileName="TMPS_Prototype_Pattern/Troleibuz.cs" Line="10" Column="50" />
+      <File FileName="TMPS_Prototype_Pattern/Report.cs" Line="1" Column="1" />
+      <File FileName="TMPS_Prototype_Pattern/TroleibuzReader.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TMPS_Prototype_Pattern" expanded="True">
+            <Node name="TMPS_Prototype_Pattern" expanded="True">
+              <Node name="Troleibuz.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
